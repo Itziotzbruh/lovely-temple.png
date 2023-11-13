@@ -1,0 +1,39 @@
+.number-number {
+  position: relative;
+  background-color: #ffffff;
+}
+.number-root-class-name {
+  background-color: #E8E6DA;
+}
+.number-root-class-name1 {
+  background-color: #E8E6DA;
+}
+.number-root-class-name2 {
+  background-color: #E8E6DA;
+}
+.number-root-class-name3 {
+  background-color: #91efa8;
+}
+.number-root-class-name4 {
+  background-color: #91efa8;
+}
+.number-root-class-name5 {
+  background-color: #90ffb7;
+}
+.number-root-class-name6 {
+  background-color: #E8E6DA;
+}
+.number-root-class-name7 {
+  background-color: #E8E6DA;
+}
+@media(max-width: 479px) {
+  .number-number {
+    width: 40px;
+    height: 40px;
+  }
+  .number-text {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+  }
+}
